@@ -1,4 +1,11 @@
-# React + Vite + shadCn + tailwindCss
+# React + Vite + ShadCn + tailwindcssa
+
+## just run these command and start developing
+
+```bash
+bun install
+bun run dev
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
